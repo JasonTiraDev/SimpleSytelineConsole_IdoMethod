@@ -1,0 +1,19 @@
+# Build artifacts 
+**/bin/
+**/obj/
+
+# Dependency directories
+/packages/ 
+
+# Test results
+**/TestResults/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE files
+**/.vscode/
+**/.vs/ 
